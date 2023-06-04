@@ -1,0 +1,293 @@
+* {
+    /* background-color: rgb(181, 185, 162); */
+    /* margin: 0;
+    /* margin-left: 13px; */
+     margin-right: 13px;
+    box-sizing: border-box;
+}
+
+.containerrecentblog {
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 150px;
+    width: 1440px;
+    height: 592px;
+}
+
+.allblog {
+    margin-left: 150px;
+}
+
+    .maincontainerallblogup {
+        margin-left: 150px    
+    }
+/* 
+    .maincontainerallblogup {
+        margin-right: 15%
+    } */
+
+    .maincontainerallblogdown {
+        margin-left: 15%
+    }
+
+    .maincontainerallblogdown {
+        margin-right: 15%
+    }
+
+body {
+    font-family: "inter";
+    font-weight: 100;
+}
+
+.storyandform {
+    text-align: center;
+}
+.ourblog {
+    font-size: 16px;
+    color: blueviolet;
+}
+
+.stories {
+    font-size: 48px;
+}
+
+.subscribetolearn {
+    font-size: 20px;
+}
+
+input {
+    width: 360px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: white;
+    padding-top: 8;
+}
+
+input::placeholder {
+    padding-left: 10px;
+}
+
+.search_container {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+button {
+    position: relative;
+    bottom: 17px;
+    background-color: blueviolet;
+    color: white;
+    height: 48px;
+    width: 118px;
+    border-radius: 8px;
+    margin-top: 32px;
+    border: none;
+}
+
+button:hover {
+    background-color: rgb(156, 74, 233);
+    color: white;
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.privacy {
+    position: relative;
+    right: 85px;
+    bottom: 45px;
+}
+
+.containerrecentblog {
+    display: flex;
+}
+
+.leftpd {
+    width: 592px;
+    height: 432px;
+}
+
+.rightpdcontainer {
+    margin-left: 10px;
+    /* width: 592px;
+    height: 432px; */
+}
+
+.imagetext_container {
+display: flex;
+}
+
+.text_container {
+    position: relative;
+    bottom: 20px;
+    line-height: 5px;
+    
+}
+
+.bottomcontainer {
+position: relative;
+bottom: -5px;
+}
+.recent {
+    font-size: 24px;
+    margin-left: 150px;
+}
+
+.smalldivopt1 {
+  display: flex;
+  align-items: center;
+
+}
+
+.researh {
+    background-color: #F0F9FF;
+    color: #026AA2;
+    display: flex;
+    justify-content: center;
+    width: 75px;
+    height: 24px;
+    border-radius: 8px;
+}
+
+.presentation {
+    background-color: #FDF2FA;
+    color: #C11574;
+    display: flex;
+    justify-content: center;
+    /* align-items: center;  */
+    width: 110px;
+    height: 24px;
+    border-radius: 8px;
+}
+
+.olivia {
+    font-size: 14px;
+}
+.icon {
+    width: 12px;
+    height: 12px;
+    position: relative;
+    top: 35px;
+}
+.title_icon {
+    position: relative;
+    bottom: 30px;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.more_style {
+    position: relative;
+    top: -10px;
+}
+
+.more_arrow {
+    position: relative;
+top: 10px;
+}
+
+.how {
+    font-size: 16px;
+}
+
+.ux_review_presentation {
+width: 592px;
+height: 228px;
+border-radius: 8px;
+}
+
+/* .rightpd {
+    flex: 60%;
+} */
+.migrate {
+    width: 320px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+.api {
+    width: 320px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+.maincontainerallblogup {
+    display: flex;
+}
+
+.bill {
+    width: 383px;
+height: 240px;
+border-radius: 8px
+}
+
+.pm {
+width: 383px;
+height: 240px;
+border-radius: 8px
+}
+
+.wire {
+    width: 383px;
+height: 240px;
+border-radius: 8px
+}
+
+.maincontainerallblogdown {
+    display: flex;
+}
+
+.colabo {
+    width: 383px;
+height: 240px;
+border-radius: 8px
+}
+
+.java {
+width: 383px;
+height: 240px;
+border-radius: 8px
+}
+
+.pod {
+    width: 383px;
+height: 240px;
+border-radius: 8px
+}
+
+.textblog {
+    margin-left: 40px;
+}
+
+h3 {
+    font-size: 18px;
+    position: relative;
+    bottom: -5px;
+}
+
+.title {
+        font-size: 18px;
+        font-weight: 200;
+        position: relative;
+        bottom: 10px;
+    }
+
+h6 {
+    font-size: 16px;
+    position: relative;
+    bottom: 5px;
+    font-weight: 200;
+}
+
+h5 {
+    font-size: 14px;
+    color: blueviolet;
+   
+    
+}
