@@ -51,7 +51,9 @@ body {
     text-align: center;
 }
 .ourblog {
-    font-size: 16px;
+    margin-top: 100px;
+    font-size: 18px;
+    font-weight: 700;
     color: blueviolet;
 }
 
@@ -66,6 +68,7 @@ body {
 input {
     width: 360px;
     height: 48px;
+    border: 1px solid rgb(209, 206, 206);
     border-radius: 8px;
     background-color: white;
     padding-top: 8;
@@ -99,6 +102,12 @@ button:hover {
     cursor: pointer;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+  }
+  
+
 .search {
     display: flex;
     align-items: center;
@@ -111,8 +120,13 @@ button:hover {
     font-size: 13px;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 .containerrecentblog {
     display: flex;
+    margin-top: -25px;
 }
 
 .leftpd {
@@ -163,21 +177,26 @@ bottom: -5px;
 
 .researh {
     background-color: #F0F9FF;
+    font-weight: 500;
+    font-size: 14px;
     color: #026AA2;
     display: flex;
     justify-content: center;
-    width: 75px;
+    align-items: center;
+    width: 100px;
     height: 24px;
     border-radius: 8px;
 }
 
 .presentation {
     background-color: #FDF2FA;
+    font-weight: 500;
+    font-size: 14px;
     color: #C11574;
     display: flex;
     justify-content: center;
-    /* align-items: center;  */
-    width: 110px;
+    align-items: center; 
+    width: 100px;
     height: 24px;
     border-radius: 8px;
 }
@@ -236,6 +255,12 @@ border-radius: 8px;
 
 .maincontainerallblogup {
     display: flex;
+    margin-top: -25px;
+}
+
+.allblog {
+    position: relative;
+    margin-top: -90px;
 }
 
 .how_b {
@@ -332,7 +357,7 @@ h5 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blueviolet;
+    background-color: rgb(66, 50, 84);
     color: white;
 }
 
