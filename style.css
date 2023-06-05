@@ -120,6 +120,16 @@ button:hover {
     height: 432px;
 }
 
+.how_a {
+    position: relative;
+    top: -80px;
+    line-height: 5px;
+}
+
+.gap {
+    margin-top: -90px;
+}
+
 .rightpdcontainer {
     margin-left: 10px;
     /* width: 592px;
@@ -187,7 +197,6 @@ bottom: -5px;
     font-size: 24px;
     display: flex;
     justify-content: space-between;
-
 }
 
 .more_style {
@@ -229,6 +238,25 @@ border-radius: 8px;
     display: flex;
 }
 
+.how_b {
+    position: relative;
+    top: -70px;
+    line-height: 20px;
+}
+
+.down {
+margin-top: 50px;
+}
+
+.how_c {
+    position: relative;
+    top: -30px;
+    line-height: 20px;
+}
+
+.gat {
+    margin-top: -50px;
+}
 .bill {
     width: 383px;
 height: 240px;
